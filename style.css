@@ -1,0 +1,143 @@
+.index {
+    font-family: monospace;
+    text-align: center;
+    background-color: #F6DDCC;
+}
+.index .title {
+    font-weight: bold;
+    font-size: 50px;
+    background-color: #58D68D;
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+    color: white;
+}
+.index .list-recipes {
+    list-style-type: none;
+}
+.index .list-recipes .recipe {
+    height:50px;
+    font-size: 25px;
+}
+.lasagna {
+    font-family: monospace;
+    text-align: center;
+    background-color: #F6DDCC;
+}
+.lasagna .title {
+    font-weight: bold;
+    font-size: 50px;
+    background-color: #D35400;
+    margin-left: 800px;
+    margin-right: 800px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+    color: white;
+}
+.lasagna .photo {
+    height: auto;
+    width: 500px;
+}
+.lasagna .paragraph {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+    font-size: 25px;
+}
+.lasagna .subtitle {
+    font-weight: bold;
+    font-size: 40px;
+    color: #D35400;
+}
+.lasagna .subsubtitle {
+    font-weight: bold;
+    font-size: 30px;
+    color: #DC7633;
+}
+.lasagna .lists {
+    list-style-type: none;
+}
+.lasagna .lists .elements{
+    font-size: 20px;
+}
+.butter-cookies {
+    font-family: monospace;
+    text-align: center;
+    background-color: #F6DDCC;
+}
+.butter-cookies .title {
+    font-weight: bold;
+    font-size: 50px;
+    background-color: #E74C3C;
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+    color: white;
+}
+.butter-cookies .photo {
+    height: auto;
+    width: 500px;
+}
+.butter-cookies .paragraph {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+    font-size: 25px;
+}
+.butter-cookies .subtitle {
+    font-weight: bold;
+    font-size: 40px;
+    color: #E74C3C;
+}
+.butter-cookies .lists {
+    list-style-type: none;
+}
+.butter-cookies .lists .elements{
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.rice {
+    font-family: monospace;
+    text-align: center;
+    background-color: #F6DDCC;
+}
+.rice .title {
+    font-weight: bold;
+    font-size: 50px;
+    background-color: #27AE60;
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+    color: white;
+}
+.rice .photo {
+    height: auto;
+    width: 500px;
+}
+.rice .paragraph {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+    font-size: 25px;
+}
+.rice .subtitle {
+    font-weight: bold;
+    font-size: 40px;
+    color: #27AE60;
+}
+.rice .lists {
+    list-style-type: none;
+}
+.rice .lists .elements{
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
